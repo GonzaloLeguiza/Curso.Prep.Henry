@@ -1,0 +1,67 @@
+
+.divClass{
+    text-align: center;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+    background-color: hsla(0, 0%, 0%, 0.3);
+ 
+}
+h3{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+h4{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+img{
+    right: 400px;
+    width: 400px;
+
+}
+#thirdDiv{
+    margin-top: 20px;
+    width: 500px;
+    height: 600px;
+    background-color: rgba(184, 182, 178,0.3);
+    padding: 20px;
+    border: 10px solid rgb(53, 53, 53);
+    box-shadow: 0 10px 20px 20px rgba(0, 0, 0, 10);
+
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+a{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.contenedor{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-image: url("https://m.media-amazon.com/images/I/71HeRrEyxYL._AC_SX522_.jpg");
+    background-size: 100%;
+}
+/*
+.prueba{
+    background-color: khaki;
+    height: 50vh;
+    margin: 5%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+*/

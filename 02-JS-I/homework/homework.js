@@ -198,8 +198,6 @@ function combinarNombres(nombre, apellido) {
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
  return nombre  +' '+  apellido;
-  
-  
 }
 
 function obtenerSaludo(nombre) {
@@ -215,7 +213,6 @@ function obtenerAreaRectangulo(alto, ancho) {
   // Tu código:
   base=alto*ancho;
   return base;
-  
 }
 
 
@@ -224,7 +221,6 @@ function retornarPerimetro(lado){   //esta bien este
   //Escribe tu código aquí
   perimetro = (lado * 4);
   return perimetro;
-  
 }
 
 
@@ -241,8 +237,6 @@ function deEuroAdolar(euro){
   //Escribe tu código aquí
   
     return euro * 1.20;
-  
-  
 }
 
 
